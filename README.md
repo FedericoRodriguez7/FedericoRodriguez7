@@ -19,6 +19,8 @@ Learning is a never-ending journey, and I'm committed to expanding my knowledge 
 <p align="left">🔗 Let's Connect:
 I'm always open to connecting with fellow developers, tech enthusiasts, and potential collaborators. Feel free to reach out—I'd love to chat about all things tech, share ideas, or collaborate on exciting projects!</p>
 
+<p align="center">🩵🤍🩵</p>
+
 ###
 
 <h2 align="left">About me</h2>
