@@ -4,6 +4,21 @@
 
 <p align="left">My name is Federico and I'm a Full Stack Developer, from Argentina🩵🤍🩵</p>
 
+<p align="left">About Me:
+I'm a Junior Developer specializing in the MERN stack, passionate about building robust and scalable web applications. I honed my skills through hands-on experience at Mindhub's bootcamp, embracing the "learn-by-doing" approach. My journey in coding has been fueled by curiosity and a relentless drive for growth.</p>
+
+<p align="left">💻 Tech Stack:
+MERN (MongoDB, Express.js, React.js, Node.js) is where I feel at home. From crafting intuitive user interfaces with React to designing efficient backend systems with Node.js, I thrive in the full-stack realm. I'm always eager to explore new technologies and methodologies to stay ahead in this ever-evolving tech landscape.</p>
+
+<p align="left">🌟 Collaboration:
+I believe in the power of collaboration and continuous learning. Whether it's contributing to open-source projects or teaming up on exciting ventures, I'm enthusiastic about working with like-minded individuals who share a passion for innovation and problem-solving.</p>
+
+<p align="left">📚 Learning Journey:
+Learning is a never-ending journey, and I'm committed to expanding my knowledge base every day. With a solid foundation in English, I enjoy delving into technical documentation, tutorials, and engaging with the vibrant developer community to stay informed about the latest trends and best practices.</p>
+
+<p align="left">🔗 Let's Connect:
+I'm always open to connecting with fellow developers, tech enthusiasts, and potential collaborators. Feel free to reach out—I'd love to chat about all things tech, share ideas, or collaborate on exciting projects!</p>
+
 ###
 
 <h2 align="left">About me</h2>
