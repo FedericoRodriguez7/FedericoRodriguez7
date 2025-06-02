@@ -11,6 +11,12 @@ I'm a MERN stack web developer, focused on building modern, scalable, and effici
 
 Passionate about continuous learning and improvement, I’m currently focused on developing digital tools aimed at productivity and personal organization.
 
+<p align="left">🌟 Collaboration:
+I believe in the power of collaboration and continuous learning. Whether it's contributing to open-source projects or teaming up on exciting ventures, I'm enthusiastic about working with like-minded individuals who share a passion for innovation and problem-solving.</p>
+
+<p align="left">📚 Learning Journey:
+Learning is a never-ending journey, and I'm committed to expanding my knowledge base every day. With a solid foundation in English, I enjoy delving into technical documentation, tutorials, and engaging with the vibrant developer community to stay informed about the latest trends and best practices.</p>
+
 ---
 
 ## 🚀 Technologies and Tools
