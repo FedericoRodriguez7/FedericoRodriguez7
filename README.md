@@ -1,54 +1,57 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👋 Hola, mi nombre es Federico Rodríguez
 
-###
+![Banner](https://your-banner-link.com/banner.png) <!-- Puedes reemplazar esto por una imagen personalizada tuya -->
 
-<p align="left">My name is Federico and I'm a Full Stack Developer, from Argentina🩵🤍🩵</p>
+### 🧠 Desarrollo de Aplicaciones Web y Herramientas Productivas
 
-<p align="left">About Me:
-I'm a Junior Developer specializing in the MERN stack, passionate about building robust and scalable web applications. I honed my skills through hands-on experience at Mindhub's bootcamp, embracing the "learn-by-doing" approach. My journey in coding has been fueled by curiosity and a relentless drive for growth.</p>
+---
 
-<p align="left">💻 Tech Stack:
-MERN (MongoDB, Express.js, React.js, Node.js) is where I feel at home. From crafting intuitive user interfaces with React to designing efficient backend systems with Node.js, I thrive in the full-stack realm. I'm always eager to explore new technologies and methodologies to stay ahead in this ever-evolving tech landscape.</p>
+## 💬 Sobre Mí
 
-<p align="left">🌟 Collaboration:
-I believe in the power of collaboration and continuous learning. Whether it's contributing to open-source projects or teaming up on exciting ventures, I'm enthusiastic about working with like-minded individuals who share a passion for innovation and problem-solving.</p>
+Soy **desarrollador web MERN stack**, enfocado en crear aplicaciones modernas, escalables y eficientes. Desde que comencé mi camino como desarrollador, he trabajado en diversos proyectos, tanto personales como colaborativos, usando tecnologías como **React**, **Node.js**, **MongoDB** y más.
 
-<p align="left">📚 Learning Journey:
-Learning is a never-ending journey, and I'm committed to expanding my knowledge base every day. With a solid foundation in English, I enjoy delving into technical documentation, tutorials, and engaging with the vibrant developer community to stay informed about the latest trends and best practices.</p>
+Apasionado por el aprendizaje constante y la mejora continua, actualmente me dedico al desarrollo de herramientas digitales orientadas a la productividad y la organización personal.
 
-<p align="left">🔗 Let's Connect:
-I'm always open to connecting with fellow developers, tech enthusiasts, and potential collaborators. Feel free to reach out—I'd love to chat about all things tech, share ideas, or collaborate on exciting projects!</p>
+---
 
-<p align="center">🩵🤍🩵</p>
+## 🚀 Tecnologías y Herramientas
 
-###
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-<h2 align="left">About me</h2>
+---
 
-###
+## 🌐 Conecta Conmigo
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning the Mern stack<br>🎯 Goals: keep learning - Career advancement - Work-life balance - Contribution to the team/company<br></p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@tuusuario)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/tuusuario)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/tuusuario)
+[![Sitio Web](https://img.shields.io/badge/-Sitio_Web-000000?logo=about.me&logoColor=white)](https://tusitioweb.com)
 
-###
+---
 
-<h2 align="left">I code with</h2>
+## 📝 Algunos Blogs Publicados
 
-###
+| Docker | Principios SOLID |
+|:--:|:--:|
+| ![Docker](https://imgur.com/tuimg1.png) | ![SOLID](https://imgur.com/tuimg2.png) |
 
-<div align="left">
-  <img src="https://www.svgrepo.com/show/7866/html.svg" height="40" alt="html logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/354090/mongodb.svg" height="40" alt="mongo logo"  />
-  <img width="12" />
-  <img src="https://miro.medium.com/v2/resize:fit:1200/1*zwbpI_WsKDzEjyqoUkwHSQ.png" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/102011/css-3.svg" height="40" alt="css logo"  />
-</div>
+| ¿Qué es una API REST? | ¿Qué es Linux? |
+|:--:|:--:|
+| ![API REST](https://imgur.com/tuimg3.png) | ![Linux](https://imgur.com/tuimg4.png) |
 
-###
+---
+
+⭐ *Gracias por visitar mi perfil. ¡Estoy siempre abierto a colaborar en proyectos interesantes!*
+
