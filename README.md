@@ -1,6 +1,6 @@
 # 👋 Hola, mi nombre es Federico Rodríguez
 
-![Banner]([https://your-banner-link.com/banner.png](https://imgur.com/a/WndSZOZ)) <!-- Puedes reemplazar esto por una imagen personalizada tuya -->
+![Banner]((https://imgur.com/a/WndSZOZ)) <!-- Puedes reemplazar esto por una imagen personalizada tuya -->
 
 ### 🧠 Desarrollo de Aplicaciones Web y Herramientas Productivas
 
